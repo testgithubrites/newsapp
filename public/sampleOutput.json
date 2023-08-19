@@ -1,0 +1,203 @@
+{
+ "status": "ok",
+ "totalResults": 24,
+ "articles": [
+  {
+   "source": {
+    "id": "fortune",
+    "name": "Fortune"
+   },
+   "author": "Emma Hinchliffe, Paige McGlauflin",
+   "title": "Why a former SoftBank partner is tackling mid-career drop-off for working mothers",
+   "description": "Former SoftBank partner and Facebook India director Kirthiga Reddy is the cofounder of Laddrr, a resource hub for working mothers aiming to prevent mid-career drop-off.",
+   "url": "https://fortune.com/2022/06/01/former-softbank-partner-tackling-mid-career-drop-off-for-working-mothers/",
+   "urlToImage": "https://content.fortune.com/wp-content/uploads/2022/05/Kirthiga1.jpg?resize=1200,600",
+   "publishedAt": "2022-06-01T13:22:34Z",
+   "content": "Skip to Content"
+  },
+  {
+   "source": {
+    "id": "reuters",
+    "name": "Reuters"
+   },
+   "author": "Rajendra Jadhav",
+   "title": "Analysis: Domino effect: India rice export ban puts market on edge for copycat curbs",
+   "description": "India's rice export ban has the world market bracing for similar actions by rival suppliers to avoid potential domestic shortages as sellers try to fill the 10 million metric ton gap left by New Delhi, stoking concerns over already high global food inflation.",
+   "url": "https://www.reuters.com/markets/commodities/domino-effect-india-rice-export-ban-puts-market-edge-copycat-curbs-2023-08-11/",
+   "urlToImage": "https://www.reuters.com/resizer/xWzbfTGq774V7F4jvrBylEvJpe4=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/ULPP6APISRJKTIXG2HIAJVIXKQ.jpg",
+   "publishedAt": "2023-08-11T05:53:55Z",
+   "content": "MUMBAI, Aug 11 (Reuters) - India's rice export ban has the world market bracing for similar actions by rival suppliers to avoid potential domestic shortages as sellers try to fill the 10 million metr… [+5239 chars]"
+  },
+  {
+   "source": {
+    "id": "google-news-in",
+    "name": "Google News (India)"
+   },
+   "author": "India Today",
+   "title": "'Why would Rahul Gandhi give flying kiss to 50-year-old?' Congress MLA sparks row - India Today",
+   "description": "Congress MLA from Bihar, Neetu Singh, has sparked a fresh controversy after making offensive remarks against Union Minister Smriti Irani while dismissing allegations against Rahul Gandhi over the 'flying kiss' incident.",
+   "url": "https://news.google.com/rss/articles/CBMipQFodHRwczovL3d3dy5pbmRpYXRvZGF5LmluL2luZGlhL3N0b3J5L3JhaHVsLWdhbmRoaS1mbHlpbmcta2lzcy1jb250cm92ZXJzeS1jb25ncmVzcy1tbGEtbmVldHUtc2luZ2gtc2F5cy1yYWh1bC1nYW5kaGktaGFzLW5vLWRlYXJ0aC1vZi15b3VuZy1naXJscy0yNDE5Mzc5LTIwMjMtMDgtMTHSAakBaHR0cHM6Ly93d3cuaW5kaWF0b2RheS5pbi9hbXAvaW5kaWEvc3RvcnkvcmFodWwtZ2FuZGhpLWZseWluZy1raXNzLWNvbnRyb3ZlcnN5LWNvbmdyZXNzLW1sYS1uZWV0dS1zaW5naC1zYXlzLXJhaHVsLWdhbmRoaS1oYXMtbm8tZGVhcnRoLW9mLXlvdW5nLWdpcmxzLTI0MTkzNzktMjAyMy0wOC0xMQ?oc=5",
+   "urlToImage":"https://s3.ap-southeast-1.amazonaws.com/images.asianage.com/images/aa-Cover-2lbhld3n6q71bd0gm5ldiqcob3-20170608175442.Medi.jpeg",
+   "publishedAt": "2023-08-11T03:21:58+00:00",
+   "content": null
+  },
+  {
+   "source": {
+    "id": "ars-technica",
+    "name": "Ars Technica"
+   },
+   "author": "Stephen Clark",
+   "title": "Russia heads back to the Moon with Luna 25",
+   "description": "Luna 25 will attempt to land on the Moon the same week as India's Chandrayaan 3 probe.",
+   "url": "https://arstechnica.com/space/2023/08/russia-heads-back-to-the-moon-with-luna-25/",
+   "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2023/08/soyuz_luna25_2-760x380.jpg",
+   "publishedAt": "2023-08-11T02:28:36+00:00",
+   "content": "Enlarge/ Fire from the engines of a Russian Soyuz rocket as it lifted off with the Luna 25 spacecraft heading for the Moon.\r\n50 with \r\nRussia's space agency successfully launched a robotic spacecraft… [+5794 chars]"
+  },
+  {
+   "source": {
+    "id": "bbc-news",
+    "name": "BBC News"
+   },
+   "author": "BBC News",
+   "title": "Watch: Russia launches first Moon mission in 47 years",
+   "description": "The Russian mission is racing against India to be the first country to land on the Moon's south pole.",
+   "url": "http://www.bbc.co.uk/news/world-europe-66470294",
+   "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/1789C/production/_130721469_p0g62rnw.jpg",
+   "publishedAt": "2023-08-11T08:52:19.8119859Z",
+   "content": "Russia launched its first mission to the surface of the Moon in nearly half a century, in a bid to be the first country to land on the lunar south pole.\r\nMoscow's Luna 25 mission lifted off on schedu… [+431 chars]"
+  },
+  {
+   "source": {
+    "id": "associated-press",
+    "name": "Associated Press"
+   },
+   "author": "JIM HEINTZ and EMMA BURROWS",
+   "title": "A rocket with a lunar landing craft blasts off on Russia’s first moon mission in nearly 50 years",
+   "description": "TALLINN, Estonia (AP) — A rocket carrying a lunar landing craft blasted off Friday on Russia’s first moon mission in nearly 50 years, racing to land on Earth’s satellite ahead of an Indian spacecraft.",
+   "url": "https://apnews.com/286bf3d8d3b30790591efc113438e216",
+   "urlToImage": "https://storage.googleapis.com/afs-prod/media/8c235772dfab4e1da6da6950f38ab392/3000.jpeg",
+   "publishedAt": "2023-08-10T15:40:56Z",
+   "content": "TALLINN, Estonia (AP) — A rocket carrying a lunar landing craft blasted off Friday on Russia’s first moon mission in nearly 50 years, racing to land on Earth’s satellite ahead of an Indian spacecraft… [+3099 chars]"
+  },
+  
+  {
+   "source": {
+    "id": "the-huffington-post",
+    "name": "The Huffington Post"
+   },
+   "author": "Jennifer Bendery",
+   "title": "Top Indigenous Leaders Press Biden On Why He Hasn’t Freed Leonard Peltier",
+   "description": "“You’ve become complicit in this injustice for Indian Country,” charged Fawn Sharp, president of the National Congress of American Indians.",
+   "url": "https://www.huffpost.com/entry/leonard-peltier-joe-biden-indigenous-leaders_n_64d3d4eee4b05c10fd6df225",
+   "urlToImage": "https://img.huffingtonpost.com/asset/64d3d5962200003a003a88dc.jpeg?cache=lhN5knOp7c&ops=1200_630",
+   "publishedAt": "2023-08-10T00:00:56Z",
+   "content": "Two prominent Indigenous leaders this week separately pressed President Joe Biden on why he hasnt released Leonard Peltier from prison and signaled that tribal leaders and Native rights advocates pla… [+7116 chars]"
+  },
+  {
+   "source": {
+    "id": "le-monde",
+    "name": "Le Monde"
+   },
+   "author": "Brieuc Beckers, Marceau Bretonnier, Elisa Bellanger et Adrien Sahli",
+   "title": "Vidéo. De « Star Wars » à « Indiana Jones », la technique qui rend ces musiques de film inoubliables",
+   "description": "Vidéo - A 91 ans, le compositeur John Williams signe la bande-son du dernier « Indiana Jones », en salles le 28 juin. Le service vidéo du « Monde » a tenté de percer ses secrets de fabrication, avec l’aide d’un jeune orchestre symphonique.",
+   "url": "https://www.lemonde.fr/culture/video/2023/06/26/de-star-wars-a-indiana-jones-la-technique-qui-rend-ces-musiques-de-film-inoubliables_6179298_3246.html",
+   "urlToImage": "https://img.lemde.fr/2023/06/21/0/131/1620/1080/1440/960/60/0/5eba91f_1687333721261-thumbnail-john-williams-site.png",
+   "publishedAt": "2023-06-26T15:00:05Z",
+   "content": "Êtes-vous capable de fredonner la musique des films Star Wars,Indiana Jones, Jurassic Park ou Harry Potter ? Derrière leur célébrité quasi universelle, ces thèmes musicaux partagent un point commun :… [+678 chars]"
+  },
+  
+  {
+   "source": {
+    "id": "the-hindu",
+    "name": "The Hindu"
+   },
+   "author": "Ananth Krishnan",
+   "title": "Dalai Lama’s close aides targeted on Pegasus spyware list",
+   "description": "‘Analysis indicates that the Indian govt. was selecting the potential targets’",
+   "url": "https://www.thehindu.com/news/international/dalai-lamas-close-aides-targeted-on-pegasus-spyware-list/article35474285.ece",
+   "urlToImage": "https://www.thehindu.com/news/international/dvshb0/article35474284.ece/ALTERNATES/LANDSCAPE_615/thjc-DalaiLama",
+   "publishedAt": "2021-07-22T15:47:01Z",
+   "content": "Several of the top India-based aides to the Tibetan spiritual leader, the Dalai Lama, figure on the list of potential targets for spying using the Pegasus spyware, according to a report on Thursday. … [+2399 chars]"
+  },
+  {
+   "source": {
+    "id": "rte",
+    "name": "RTE"
+   },
+   "author": "RTÉ News",
+   "title": "UK continues with reopening plan despite concerns",
+   "description": "British ministers are pushing on with a major easing of restrictions on Monday despite concerns over the Indian variant of coronavirus, as they were criticised for allowing the strain's import.",
+   "url": "https://www.rte.ie/news/uk/2021/0515/1221764-uk-indian-variant/",
+   "urlToImage": "https://img.rasset.ie/0016cb40-1600.jpg",
+   "publishedAt": "2021-05-15T09:33:48Z",
+   "content": "British ministers are pushing on with a major easing of restrictions on Monday despite concerns over the Indian variant of coronavirus, as they were criticised for allowing the strain's import.\r\nPrim… [+5066 chars]"
+  },
+  {
+   "source": {
+    "id": "the-times-of-india",
+    "name": "The Times of India"
+   },
+   "author": "Rajat Pandit",
+   "title": "Army explores procurement of 350 light tanks for mountainous terrain after border standoff with China",
+   "description": "India News:  The Army is now exploring the possibility of procuring 350 light tanks, which can also be transported by air, to augment its firepower in high-altitu",
+   "url": "http://timesofindia.indiatimes.com/india/army-explores-procurement-of-350-light-tanks-for-mountainous-terrain-after-border-standoff-with-china/articleshow/82217825.cms",
+   "urlToImage": "https://static.toiimg.com/thumb/msid-82217908,width-1070,height-580,imgsize-264639,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg",
+   "publishedAt": "2021-04-23T08:29:00Z",
+   "content": "Army explores procurement of 350 light tanks for mountainous terrain after border standoff with China\r\n<ul><li>News</li>\r\n<li>India News</li>\r\n<li>Army explores procurement of 350 light tanks for mou… [+58 chars]"
+  },
+  {
+   "source": {
+    "id": "the-times-of-india",
+    "name": "The Times of India"
+   },
+   "author": "Times Of India",
+   "title": "PBKS vs MI Live Score, IPL 2021: Mumbai Indians seek consistency; Punjab Kings eye return to winning ways",
+   "description": "IPL Live Score: Mumbai Indians seek consistency; Punjab Kings eye return to winning ways. Stay with TOI to get IPL live score, playing 11, scorecard, highlights and ball by ball score updates of the 17th IPL match between Punjab Kings and Mumbai Indians.",
+   "url": "http://timesofindia.indiatimes.com/sports/cricket/ipl/live-blog/punjab-kings-vs-mumbai-indians-pbks-vs-mi-live-score-ipl-2021-17th-match-chennai/liveblog/82214950.cms",
+   "urlToImage": "https://static.toiimg.com/thumb/msid-82214950,width-1070,height-580,imgsize-157009,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg",
+   "publishedAt": "2021-04-23T05:44:49Z",
+   "content": "Ravi Bishnoi return on the cards?\r\nDeepak Hooda showed what he is capable of, but greater consistency would be needed from him if the team has to prosper. They bet on Australian pace imports Jhye Ric… [+3131 chars]"
+  },
+  {
+   "source": {
+    "id": "the-times-of-india",
+    "name": "The Times of India"
+   },
+   "author": "PTI",
+   "title": "Zydus Cadila gets DCGI nod for hepatitis drug for Covid-19 treatment",
+   "description": "India News: Drug firm Zydus Cadila on Friday said it has received restricted emergency use approval from the Indian drug regulator for the use of Pegylated Interf",
+   "url": "http://timesofindia.indiatimes.com/india/zydus-cadila-gets-dcgi-nod-for-hepatitis-drug-for-covid-19-treatment/articleshow/82214909.cms",
+   "urlToImage": "https://static.toiimg.com/thumb/msid-82214921,width-1070,height-580,imgsize-98052,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg",
+   "publishedAt": "2021-04-23T05:43:00Z",
+   "content": null
+  },
+  {
+   "source": {
+    "id": "the-times-of-india",
+    "name": "The Times of India"
+   },
+   "author": "Bloomberg",
+   "title": "Even record death toll may hide extent of India’s Covid crisis",
+   "description": "India News: Bodies piling up at crematoriums and burial grounds across India are sparking concerns that the death toll from a ferocious new Covid-19 wave may be m.",
+   "url": "http://timesofindia.indiatimes.com/india/even-record-death-toll-may-hide-extent-of-indias-covid-crisis/articleshow/82213444.cms",
+   "urlToImage": "https://static.toiimg.com/thumb/msid-82213819,width-1070,height-580,imgsize-232887,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg",
+   "publishedAt": "2021-04-23T04:41:00Z",
+   "content": null
+  },
+  {
+   "source": {
+    "id": "next-big-future",
+    "name": "Next Big Future"
+   },
+   "author": "Brian Wang",
+   "title": "Good Indian Researcher Has Improving LK99 Replications Despite Previous Replication Failures | NextBigFuture.com",
+   "description": "VPS Awana has been trying for weeks to get a good LK99 replication. He has been in direct contact with the Korean team. He published two arxiv preprints",
+   "url": "https://www.nextbigfuture.com/2023/08/good-indian-researcher-has-improving-lk99-replications-despite-previous-replication-failures.html",
+   "urlToImage": "https://pbs.twimg.com/profile_images/471189808350380032/6h0irx4s_400x400.jpeg",
+   "publishedAt": "2023-08-10T14:45:01Z",
+   "content": "VPS Awana has been trying for weeks to get a good LK99 replication. He has been in direct contact with the Korean team. He published two arxiv preprints talking about how his previous samples didnt w… [+4296 chars]"
+  }
+ ]
+}
